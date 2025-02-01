@@ -30,7 +30,7 @@ Before setting up the project, ensure the following are installed:
 
 ### Steps to Set Up the Project
 1. **Download the Project**
-   - Download the zip file from the [GitHub repository](your-github-repo-link-here).
+   - Download the zip file from the [GitHub repository](https://github.com/aditto007/DU-Shuttle-Service-CSE-2112-OOP).
    - Extract the file and rename it to **"DU Shuttle Service"**.
 
 2. **Import Project into NetBeans**
