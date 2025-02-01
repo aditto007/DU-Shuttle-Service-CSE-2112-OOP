@@ -59,7 +59,14 @@ Before setting up the project, ensure the following are installed:
 - **Live Route Details**: Track shuttle routes and schedules.
 - **Cashless Payments**: Seamless transactions for student convenience.
 - **User Authentication**: Secure login for students and admins.
+## Troubleshooting
+### Database Connection Issues
+- Ensure **MySQL** is running and credentials are correct.
+- Verify that the **MySQL JDBC driver** is properly configured.
 
+### Build Errors in NetBeans
+- Ensure **Apache Ant** is installed and configured.
+- Check if all required JAR files (**JCalendar, iText**) are properly added to the project.
 ## Contribution
 We welcome contributions! Feel free to fork the repository, make improvements, and submit a pull request.
 
