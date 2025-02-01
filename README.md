@@ -8,7 +8,7 @@ The **DU Shuttle Service** is an Object-Oriented Programming (OOP) based project
 
 ## Technologies Used
 ### Programming & IDE
-- **Java (JDK 22)**
+- **Java (JDK 23)**
 - **NetBeans IDE**
 - **Apache Ant** (Build automation tool)
 
@@ -23,7 +23,7 @@ The **DU Shuttle Service** is an Object-Oriented Programming (OOP) based project
 
 ### Prerequisites
 Before setting up the project, ensure the following are installed:
-- **Java JDK 22**
+- **Java JDK 23**
 - **NetBeans IDE**
 - **MySQL Server**
 - **Apache Ant** configured in NetBeans
