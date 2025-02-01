@@ -45,6 +45,14 @@ Before setting up the project, ensure the following are installed:
 4. **Run the Project**
    - Build the project using **Apache Ant**.
    - Run the main file to start the application.
+5. **Another Way to Run the Project**
+   - Download the `dist` folder from the repository.
+   - Open a terminal and navigate to the `dist` folder.
+   - Run the JAR file using the following command:
+     ```sh
+     java -jar DU_Shuttle_Service.jar
+     ```
+   - Ensure you have **JDK 22** installed on your system to run the JAR file.     
 
 ## Features
 - **Smart Ticketing System**: Digital ticket purchasing with QR support.
