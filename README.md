@@ -55,10 +55,11 @@ Before setting up the project, ensure the following are installed:
    - Ensure you have **JDK 22** installed on your system to run the JAR file.     
 
 ## Features
-- **Smart Ticketing System**: Digital ticket purchasing with QR support.
-- **Live Route Details**: Track shuttle routes and schedules.
+- **Smart Ticketing System**: Digital ticket purchasing with payment.
+- **Add Money**: Add money with popular payment portals.
 - **Cashless Payments**: Seamless transactions for student convenience.
-- **User Authentication**: Secure login for students and admins.
+- **User Authentication**: Secure login for students.
+- **Easy Access**: Access to the route details, emergency call, and complaints/suggestions.
 ## Troubleshooting
 ### Database Connection Issues
 - Ensure **MySQL** is running and credentials are correct.
