@@ -81,7 +81,11 @@ Below are screenshots of different sections of the application:
 - **Mobile Application** – Develop an Android/iOS version for better accessibility.
 - **Live Location Tracking** – Live Location of the transport.
 ## Contribution
-We welcome contributions! Feel free to fork the repository, make improvements, and submit a pull request.
+## Contributors
+- **[aditto007](https://github.com/aditto007)**
+- **[abulhasananik2](https://github.com/abulhasananik2)**
+- **Jotish Biswas**
+---
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
