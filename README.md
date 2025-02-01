@@ -63,9 +63,9 @@ Before setting up the project, ensure the following are installed:
 ## Screenshots
 Below are screenshots of different sections of the application:
 
-![Login Page](src/visuals/Login.PNG)
-![Profile](src/visuals/Profile.PNG)
-![Guest Page](src/visuals/Guest.PNG)
+![Login Page](src/visuals/Login.png)
+![Profile](src/visuals/Profile.png)
+![Guest Page](src/visuals/Guest.png)
 ## Troubleshooting
 ### Database Connection Issues
 - Ensure **MySQL** is running and credentials are correct.
