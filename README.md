@@ -67,6 +67,12 @@ Before setting up the project, ensure the following are installed:
 ### Build Errors in NetBeans
 - Ensure **Apache Ant** is installed and configured.
 - Check if all required JAR files (**JCalendar, iText**) are properly added to the project.
+
+## Future Plan
+- **Admin Interface** – To control and observe the ticket buyers.
+- **Online Payment Integration** – Integrating with popular online payment methods.
+- **Mobile Application** – Develop an Android/iOS version for better accessibility.
+- **Live Location Tracking** – Live Location of the transport.
 ## Contribution
 We welcome contributions! Feel free to fork the repository, make improvements, and submit a pull request.
 
