@@ -4,7 +4,7 @@
 The **DU Shuttle Service** is an Object-Oriented Programming (OOP) based project designed to enhance campus transportation with smart ticketing, route details, and a seamless, cashless shuttle experience for Dhaka University students. Built with **Java Swing** for UI, **MySQL** for database management, and **Apache Ant** for project build automation, this system ensures modularity, scalability, and an efficient user experience.
 
 ## Homepage Preview
-![DU Shuttle Service Start Page](path/to/image.png)
+![DU Shuttle Service Start Page](src/visuals/Start Page.png)
 
 ## Technologies Used
 ### Programming & IDE
