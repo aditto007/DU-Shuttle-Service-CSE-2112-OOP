@@ -80,7 +80,7 @@ Below are screenshots of different sections of the application:
 - **Online Payment Integration** – Integrating with popular online payment methods.
 - **Mobile Application** – Develop an Android/iOS version for better accessibility.
 - **Live Location Tracking** – Live Location of the transport.
-## Contribution
+
 ## Contributors
 - **[aditto007](https://github.com/aditto007)**
 - **[abulhasananik2](https://github.com/abulhasananik2)**
