@@ -52,7 +52,7 @@ Before setting up the project, ensure the following are installed:
      ```sh
      java -jar DU_Shuttle_Service.jar
      ```
-   - Ensure you have **JDK 22** installed on your system to run the JAR file.     
+   - Ensure you have **JDK 23** installed on your system to run the JAR file.     
 
 ## Features
 - **Smart Ticketing System**: Digital ticket purchasing with payment.
