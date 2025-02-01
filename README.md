@@ -60,6 +60,12 @@ Before setting up the project, ensure the following are installed:
 - **Cashless Payments**: Seamless transactions for student convenience.
 - **User Authentication**: Secure login for students.
 - **Easy Access**: Access to the route details, emergency call, and complaints/suggestions.
+## Screenshots
+Below are screenshots of different sections of the application:
+
+![Login Page](src/visuals/Login.PNG)
+![Profile](src/visuals/Profile.PNG)
+![Guest Page](src/visuals/Guest.PNG)
 ## Troubleshooting
 ### Database Connection Issues
 - Ensure **MySQL** is running and credentials are correct.
