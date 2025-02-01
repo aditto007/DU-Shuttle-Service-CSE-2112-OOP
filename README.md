@@ -73,7 +73,7 @@ Below are screenshots of different sections of the application:
 
 ### Build Errors in NetBeans
 - Ensure **Apache Ant** is installed and configured.
-- Check if all required JAR files (**JCalendar, iText**) are properly added to the project.
+- Check if all required JAR files (**JCalendar, mysql-connector-java**) are properly added to the project.
 
 ## Future Plan
 - **Admin Interface** – To control and observe the ticket buyers.
